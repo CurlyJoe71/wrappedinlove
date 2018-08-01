@@ -25,12 +25,19 @@ header {
     /* padding-top: 2px; */
 }
 .nav-menu li {
-    display: inline-block;
+    display: block;
     margin-left: 50px;
     float: left;
     font-size: 20px;
+    
 }
 
 img.logo {
+
+}
+
+.main {
+    margin: 50px;
+    background: white;
 
 }
