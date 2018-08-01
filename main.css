@@ -1,0 +1,36 @@
+body {
+    background-image: url("http://kb4images.com/images/free-background-images/37744002-free-background-images.jpg");
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+
+}
+
+header {
+    background: rgb(255, 255, 255);
+    height: 50px;
+    background-image: url("https://www.colourbox.com/preview/2964228-knit-white-texture-crochet-background.jpg");
+    background-size: auto;
+    border: 1px solid gray;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.logo{
+    position: absolute;
+    margin-left: 50px;
+}
+
+.nav-menu {
+    margin-left: 500px;
+    /* padding-top: 2px; */
+}
+.nav-menu li {
+    display: inline-block;
+    margin-left: 50px;
+    float: left;
+    font-size: 20px;
+}
+
+img.logo {
+
+}
