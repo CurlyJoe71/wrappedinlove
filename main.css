@@ -16,7 +16,7 @@ header {
     width: 960px;
     margin: 10px auto;
     border-image-source: url("https://www.craftsy.com/a/general/wp-content/uploads/2013/08/blocks.jpg");
-    border-image-slice: 10% 1% 10% 5%;
+    border-image-slice: 20 0 0 0;
     border-image-width: 20px;
     border-image-repeat: round;
 }
